@@ -1,2 +1,4 @@
 # PowerBI
 The "Exploratory Analysis of Sample Geographic Data" delves into an in-depth examination of geographical information obtained from the provided dataset. This analysis aims to uncover patterns, trends, and relationships within the data to gain valuable insights into geographical distributions, spatial relationships, and any notable characteristics. By employing various statistical and visual analysis techniques, the report seeks to elucidate key findings and observations that can inform decision-making processes and drive further exploration or action. Through this exploratory analysis, a comprehensive understanding of the geographic data landscape is established, paving the way for informed strategies and initiatives in relevant domains.
+# Visualization
+![Report on Geographic Data](https://github.com/SmyrnaJebarani/PowerBI/blob/main/Exploratory%20Analysis%20of%20Sample%20Geographic%20Data.jpg)
